@@ -1,1 +1,6 @@
-build/*
+
+# ignore all the content of build folder
+build/
+
+# trying to keep only the .keep file in this folder
+!build/.keep
